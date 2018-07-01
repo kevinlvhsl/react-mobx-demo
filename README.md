@@ -2,6 +2,9 @@
 
 使用react + mobx 做一个经典的todolist demo 来学习mobx
 
+[mobx](http://mobx.js.org)
+[中文](https://cn.mobx.js.org/)
+
 
 #### 下载
 ```
